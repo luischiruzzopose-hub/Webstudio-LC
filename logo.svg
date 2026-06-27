@@ -1,0 +1,13 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="120" rx="24" fill="#0B0F19"/>
+  <rect x="28" y="28" width="64" height="64" rx="18" fill="url(#g)"/>
+  <path d="M45 62L56 73L78 47" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="112" y="57" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">WebStudio</text>
+  <text x="113" y="83" fill="#AAB4C8" font-family="Arial, Helvetica, sans-serif" font-size="18">Diseño Web Profesional</text>
+  <defs>
+    <linearGradient id="g" x1="28" y1="28" x2="92" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D5DFB"/>
+      <stop offset="1" stop-color="#00D4FF"/>
+    </linearGradient>
+  </defs>
+</svg>
